@@ -1,5 +1,5 @@
 # expertai-discord-bot
-This is a discord bot that I have developed for the expertAI hackathon. Once you add this bot in your server it monitors the messages and removes the messages that contains hate speech. For that it is using the expertAI hate speech detection apis.
+This is a discord bot that I have developed for the expertAI hackathon. Once you add this bot in your server it monitors the messages and removes the messages that contains hate speech. For that it is using the expertAI nlp hate speech apis.
 Feel free to test the bot by adding the bot to your discord server -
 https://discord.com/api/oauth2/authorize?client_id=1031227841758646383&permissions=8&scope=bot    
 
